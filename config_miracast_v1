@@ -1,4 +1,5 @@
 {
-    "is_banner": true, 
+    "is_banner": true,
+    "isShowInterestial": true,
     "clickToShowAds": 3,
 }
